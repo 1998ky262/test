@@ -1,4 +1,4 @@
 function click () {
-document.getElementById(ボタンのID).click();
+ejs-button ejs-button-primary
 }
 setInterval(click(),400);
