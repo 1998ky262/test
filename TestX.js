@@ -1,4 +1,4 @@
 function click () {
-ejs-button ejs-button-primary
+  document.querySelector('.ejs-button ejs-button-primary').click();
 }
 setInterval(click(),400);
